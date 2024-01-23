@@ -48,14 +48,11 @@ The more one practices creating things, the more he is able to extend his creati
 
 The following are the technologies which are used in our Project:
 
-1.	AndroidStudio
-Android Studio is the Official IDE for Android. Android Studio provides the fastest tools for building apps on every type of Android device.
+1.	AndroidStudio is the Official IDE for Android. Android Studio provides the fastest tools for building apps on every type of Android device.
 
-2.	Unity
-Unity, the world's leading real-time engine, is used to create half of the world's games.
+2.	Unity, the world's leading real-time engine, is used to create half of the world's games.
 
-3.	Vuforia 
-Vuforia is an augmented reality software development kit for mobile devices that enables the creation of augmented reality applications.
+3.	Vuforia is an augmented reality software development kit for mobile devices that enables the creation of augmented reality applications.
 
 
 
